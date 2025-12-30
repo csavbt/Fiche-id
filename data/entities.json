@@ -1,0 +1,49 @@
+{
+  "entities": [
+    {
+      "id": "cliniquecms",
+      "name": "CliniqueCMS",
+      "domain": "cliniquecms.com",
+      "email_pattern": "p.nom",
+      "address": "Rue du Dr Pitat, Basse-Terre 97100, Guadeloupe",
+      "phone": "+590 590 80 61 00",
+      "logo": "/logos/cliniquecms.png"
+    },
+    {
+      "id": "groupecqfd",
+      "name": "GroupeCQFD",
+      "domain": "groupecqfd.com",
+      "email_pattern": "p.nom",
+      "address": "Basse-Terre, 97100, Guadeloupe",
+      "phone": "",
+      "logo": "/logos/groupe_cqfd_logo.jpg"
+    },
+    {
+      "id": "capesdole",
+      "name": "CAPES DOLE",
+      "domain": "capesdole.com",
+      "email_pattern": "prenom.nom",
+      "address": "Usine de Capès Dolé - Route de Dolé - 97113 GOURBEYRE / Dépôt: 45 rue de l’Industrie - Jarry - 97122 BAIE-MAHAULT",
+      "phone": "Usine: 0590 92 10 92 / Dépôt: 0590 38 23 10",
+      "logo": "/logos/capesdole.png"
+    },
+    {
+      "id": "hadnbt",
+      "name": "HAD Nord Basse-Terre",
+      "domain": "hadnbt.com",
+      "email_pattern": "prenom.nom",
+      "address": "ZAC de Beausoleil, Baie-Mahault 97122",
+      "phone": "+590 590 26 70 94",
+      "logo": "/logos/hadnbt.png"
+    },
+    {
+      "id": "jardinsdebelost",
+      "name": "Les Jardins de Belost",
+      "domain": "jardinsdebelost.com",
+      "email_pattern": "prenom.nom",
+      "address": "Rue de Belost, Saint-Claude 97120, Guadeloupe",
+      "phone": "+590 590 86 94 96",
+      "logo": "/logos/jardins de belost.png"
+    }
+  ]
+}

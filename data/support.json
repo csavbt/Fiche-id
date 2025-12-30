@@ -1,0 +1,19 @@
+{
+  "support_email": "support@groupecqfd.com",
+  "support_phone": "8282",
+  "technicians": [
+    {
+      "name": "Abdelati EL BOUSSEHABI",
+      "phone": "0690 67 08 50"
+    },
+    {
+      "name": "Sébastien COLOMBO",
+      "phone": "0690 71 81 83"
+    }
+  ],
+  "manager": {
+    "name": "Monsieur Jean Yves JACQUES",
+    "phone": "0690 266 524",
+    "email": "jy.jacques@groupecqfd.com"
+  }
+}

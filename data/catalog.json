@@ -1,0 +1,41 @@
+{
+  "softwares": [
+    "DOPASOINS",
+    "Asclepios Prod",
+    "Asclepios Réf",
+    "Office365",
+    "WebSuite",
+    "Holter",
+    "Evolucare",
+    "Bluekango",
+    "Bioserveur",
+    "Domelink",
+    "Antadine",
+    "Dragon One",
+    "GeoCom",
+    "Zeendoc",
+    "VPN",
+    "Sage",
+    "Autre"
+  ],
+  "materials": [
+    "Laptop",
+    "Téléphone portable",
+    "Écran",
+    "Double écran",
+    "Desktop",
+    "Imprimante",
+    "Clavier / Souris / Tapis",
+    "Sacoche",
+    "Lecteur carte Vitale",
+    "TPE",
+    "Lunette connectée",
+    "Télévision",
+    "Micro",
+    "Matériel informatique ergonomique",
+    "Webcam",
+    "Haut-parleur",
+    "Carte d’accès",
+    "Autre"
+  ]
+}
