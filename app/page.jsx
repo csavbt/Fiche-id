@@ -6,11 +6,14 @@ export default function Home(){
       <div className="grid">
         {entities.entities.map(e => (
           <a className="entity" href={`/entity/${e.id}`} key={e.id}>
-            <img src={e.logo} alt={e.name} />
-            <div>
-              <div className="name">{e.name}</div>
-              <div className="domain">{e.domain}</div>
+            <div className="entityLeft">
+              <img src={e.logo} alt={e.name} />
+              <div>
+                <div className="name">{e.name}</div>
+                <div className="domain">{e.domain}</div>
+              </div>
             </div>
+            <div className="entityCta">Créer une fiche →</div>
           </a>
         ))}
       </div>

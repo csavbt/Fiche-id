@@ -33,3 +33,8 @@ input{width:100%;padding:10px 12px;border-radius:12px;border:1px solid var(--lin
 .footerLogos img{height:26px;object-fit:contain}
 .note{font-size:12px;color:var(--muted);margin-top:10px}
 .pill{display:inline-block;padding:4px 10px;border:1px solid var(--line);border-radius:999px;color:var(--muted);font-size:12px}
+
+.entity{justify-content:space-between}
+.entityLeft{display:flex;gap:12px;align-items:center}
+.entityCta{font-size:12px;color:var(--muted);border:1px solid var(--line);padding:6px 10px;border-radius:999px;white-space:nowrap}
+.entity:hover .entityCta{border-color:#2f4260;color:var(--text)}
