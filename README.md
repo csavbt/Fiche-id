@@ -22,3 +22,9 @@ Pour une prod (archives persistantes), brancher un stockage (S3/Supabase/serveur
 - Téléphone: IMEI + N° obligatoires si coché
 - PDF 2 pages (fiche + bon de réception) avec bloc support
 - Sauvegarde JSON chiffrée (passwords chiffrés, pas affichés)
+
+
+## v0.2.0
+- PDF moderne (2 pages) + lien sécurisé 24h pour récupérer les mots de passe
+- Page /acces?token=... (token stocké en Redis Upstash conseillé)
+- Envoi email automatique (SMTP) + PDF en pièce jointe

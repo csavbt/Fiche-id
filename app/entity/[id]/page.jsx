@@ -33,6 +33,12 @@ export default function EntityPage({ params }){
           <div><label>Date de départ</label><input name="endDate" type="date" /></div>
         </div>
 
+<div className="row" style={{marginTop:12}}>
+  <div><label>Email utilisateur (si différent)</label><input name="userEmail" placeholder="prenom.nom@domaine..." /></div>
+  <div className="muted" style={{alignSelf:"end"}}>CEGID : généralement Comptabilité / RH (selon besoin).</div>
+</div>
+
+
         <div className="row" style={{marginTop:12}}>
           <div><label>Téléphone / Poste</label><input name="phoneExt" placeholder="ex: 8282 / 0590..." /></div>
           <div><label>Photo (URL optionnelle — démo)</label><input name="photoUrl" placeholder="https://..." /></div>
